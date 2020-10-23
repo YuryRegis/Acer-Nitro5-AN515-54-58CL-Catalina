@@ -35,10 +35,12 @@ EFI files to boot Catalina Hackintosh on Acer Nitro 5 (CLOVER)
 
 ## Observações
 
-Para evitar o bug do trackpad que inutiliza o teclado, utilize a combinação das teclas **Fn + F3** para desativar o trackpad do seu Acer Nitro 5, assim você pode usar seu teclado sem medo de encostar no trackpad.
+~Para evitar o bug do trackpad que inutiliza o teclado, utilize a combinação das teclas **Fn + F3** para desativar o trackpad do seu Acer Nitro 5, assim você pode usar seu teclado sem medo de encostar no trackpad.~
 
-Ainda não consegui fazer o trackpad ELAN do Acer modelo AN515-54-58CL funcionar.
-Deixe um comentário caso encontre uma alternativa melhor para solucionar este problema.
+~Ainda não consegui fazer o trackpad ELAN do Acer modelo AN515-54-58CL funcionar.~
+~Deixe um comentário caso encontre uma alternativa melhor para solucionar este problema.~
+
+Driver Trackpad ELAN funcionando com Bootloader OPENCORE. Para substituir o clover, [clique aqui](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL-CATALINA-OPENCORE).
 
 Kext para Airport com placa wireless Intel adicionado. Usar aplicação Heliport para reconhecer as redes disponíveis (créditos: [Alexandre Lima](https://github.com/aclima01)).
 - [Airport Kext](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.2.0-alpha);
