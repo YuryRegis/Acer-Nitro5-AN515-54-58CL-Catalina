@@ -45,6 +45,7 @@ Kext para Airport com placa wireless Intel adicionado. Usar aplicação Heliport
 - [Heliport App](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.0.1)
 
 ### Especificações do Hardware
+INFO           | ESPECIFICAÇÃO
 :------------- | :---------------------------------
 Fabricante     | ACER BRASIL
 Modelo         | NITRO 5 AN515-54-58CL
