@@ -43,9 +43,11 @@ EFI files to boot Catalina Hackintosh on Acer Nitro 5 (CLOVER)
 Driver Trackpad ELAN funcionando com Bootloader OPENCORE. Para substituir o clover, [clique aqui](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL-CATALINA-OPENCORE).
 
 Kext para Airport com placa wireless Intel adicionado. Usar aplicação Heliport para reconhecer as redes disponíveis (créditos: [Alexandre Lima](https://github.com/aclima01)).
+
 <p align="center">
   <img src="https://i.ibb.co/ngft7VN/Captura-de-Tela-2020-10-23-a-s-00-54-39.png">
 </p>
+
 - [Airport Kext](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.2.0-alpha);
 - [Heliport App](https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.0.1)
 
