@@ -10,7 +10,7 @@ EFI files to boot Catalina Hackintosh on Acer Nitro 5 (CLOVER)
 # Atualizando pelo Mojave (Recomendado)
 
 1. Faça download da atualização para o Catalina através do gerenciador de Atualizações de Software do OSX;
-2. Faça download do repositório e extraia o arquivo Zip;
+2. Faça [download do repositório](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL-Catalina/archive/main.zip) e extraia o arquivo Zip;
 3. Abra a partição EFI do HD/SSD onde seu OSX Mojave está instalado;
 4. Substitua a pasta EFI do seu HD/SSD pela pasta EFI do repositório;
 5. Reinicie o seu Hackintosh e certifique-se de setar o Boot para o SSD/HD onde esta instalado o Mojave;
